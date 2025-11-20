@@ -106,7 +106,6 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 
 # Act 4 Notes
 - Mephisto’s Soul Stone -> gems gain from smashing the soul stone may give you enough to craft a Caster Recipe depending on character
-- 
 
 ---
 ![act5](https://github.com/user-attachments/assets/a539e0b2-57a5-41dd-bfd3-93ec2609031c)
@@ -114,9 +113,9 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 # Main Route
 
 1. **Bloody Foothills → Frigid Highlands**
-2. Free Barbs
+2. Free Barbarians in **Frigid Highlands**
 3. **Arreat Plateau → Crystalline Passage → Frozen River**
-4. Save Anya
+4. Save Anya for Resistance Potion
 5. **Glacial Trail → Tundra → Ancient's Way**
 6. Kill **Ancients**
 7. **Worldstone Keep → Baal**
