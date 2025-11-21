@@ -100,9 +100,11 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 # Main Route
 
 1. **Outer Steppes → Plains of Despair** → Izual
-   1. Plains is either top-left or top-right
+   1. Plains of Despair entrance locations [click here](https://diablo2.io/download/file.php?id=258460&sid=53a1de6fc5d7d7114a5819cd8cbd2685&mode=view)
 3. **City of the Damned → River of Flame**
-4. Kill **Diablo**
+   1. City of Damned location [click here](https://diablo2.io/download/file.php?id=258462&mode=view)
+5. Run Straight for River of Flame. Hellforge is located on either the left or right side
+6. Kill **Diablo**
 
 # Act 4 Notes
 - Mephisto’s Soul Stone -> gems gain from smashing the soul stone may give you enough to craft a Caster Recipe depending on character
