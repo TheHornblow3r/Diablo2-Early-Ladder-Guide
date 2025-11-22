@@ -29,16 +29,20 @@ I'm open to any advice/changes **(DM me on discord)**
 3. Use **Waypoint → Town**
 4. Take **TP → Den of Evil**
 5. Clear Den → get **Skill Point from Akara**
-6. Leave game → Town → Take Cold Plain WP
-7. Cold Plains → follow path to **Black Marsh**
-8. Find **Black Marsh WP**
-9. Optional: **Tower Cellar** for Countess (farm Tal + Eth for Stealth)
-10. Follow path to **Outer Cloister**, WP is inside second doorway
-11. Run to **Barracks** located between Outer Cloister & Jail, get **Horadric Hammer** (used to imbue later)
-12. Find **Jail Level 1 → Inner Cloister**
-13. Run top-right to **Catacombs** (WP for Catacombs located in Level 1)
-14. Run to Catacombs 3 → Kill **Andariel**
-15. Travel to Act 2 - **Warriv**
+6. Leave game → Town → Take **Cold Plain waypoint**
+7. Follow path in **Cold Plains → Stony Field** → Place TP at Tristram Stones OR find **Stony Fields Waypoint** for Tristram runs
+8. Follow path to **Cold Plains → Underground Passage Level 1 -> Dark Wood** (Do not got into Underpassage Level 2)
+9. Look for **Tree of Inifuss** for the scroll to open Tristram
+10. Follow path in **Dark Wood -> Black Marsh**
+   1. Optional: Run **Tower Cellar** in **Black Marsh** for Countess (farm Tal + Eth for Stealth)
+11. Follow path to **Outer Cloister**, Waypoint is inside second doorway
+12. Take town portal or Waypoint back to **Stony Field** and Save Deckard Cain
+13. Take Waypoint to **Outer Cloister**
+14. Run to **Barracks** located between Outer Cloister & Jail, get **Horadric Hammer** (used to imbue later)
+15. Find **Jail Level 1 → Inner Cloister**
+16. Run top-right to **Catacombs** (WP for Catacombs located in Level 1)
+17. Run to Catacombs 3 → Kill **Andariel**
+18. Travel to Act 2 - **Warriv**
 
 # Act 1 Notes
 - Find 2os Body Armour for Stealth (Tal+Eth) - Can also farm from Charsi<br>
