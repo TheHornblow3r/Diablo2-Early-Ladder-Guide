@@ -1,18 +1,21 @@
 ![Horn-EarlyLadder](https://github.com/user-attachments/assets/77fdb75f-4871-4039-ad2f-a576ab5263d3)
 ## **Table of Contents**
 
-* [Act 1 – The Sightless Eye](#act-1--the-sightless-eye)
-* [Act 2 – The Secret of the Vizjerei](#act-2--the-secret-of-the-vizjerei)
-* [Act 3 – The Infernal Gate](#act-3--the-infernal-gate)
-* [Act 4 – The Harrowing](#act-4--the-harrowing)
-* [Act 5 – Lord of Destruction](#act-5--lord-of-destruction)
+* ![Act 1 – The Sightless Eye](#act1)
+* ![Act 2 – The Secret of the Vizjerei](#act2)
+* ![Act 3 – The Infernal Gate](#act3)
+* ![Act 4 – The Harrowing](#act4)
+* ![Act 5 – Lord of Destruction](#act5)
 
 # Information
-**Version:** P21-Shungite<br>
+**Accurate with:** Path of Diablo, Project Diablo, Diablo 2, Diablo 2: Resurrected<br>
 **Discord:** Thehornblower
 
 This walkthrough is designed for early ladder walking from Normal -> Hell. The most ideal path to getting through the acts.<br>
-**Note: This is the general routes I use to get through the acts quickly (It is not meant as a speedrun, just an efficient walkthrough to get to Hell as fast as possible in the first couple days of ladder reset.**
+**Note: This is the general routes I use to get through the acts quickly (It is not meant as a speedrun, just an efficient walkthrough to get to Hell as fast as possible in the first couple days of ladder reset without missing anything.**
+
+Pair this with my Pandemonium Loot Filter for quick run-through<br>
+Loot Filter: https://github.com/TheHornblow3r/Pandemonium
 
 Follow me on twitch.tv if you have questions or changes & want to ask me live.<br>
 Follow him online at: [https://www.twitch.tv/Thehornblower](https://www.twitch.tv/thehornblower)
@@ -150,3 +153,32 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 - Runes from freeing barbarians give you Tal + Ral + Ort which can be used to make **Ancients Pledge** in 3os Shield
 
 ---
+
+<details>
+    <summary><h2>Low-Level Runeword List</h2></summary>
+
+## **Body Armor (2-Socket)**
+- **Stealth** — `Tal + Eth`
+## **Helmet (2-Socket)**
+- **Lore** — `Ort + Sol`
+- **Bulwark** — `Shael + Io + Sol`
+## **Shield (2–4 Sockets)\***
+- **Ancient’s Pledge** — `Ral + Ort + Tal`
+- **Rhyme** — `Shael + Eth`
+## **Weapon (2–4 Sockets)\***
+- **Steel** — `Tir + El`  
+  *Axes, Maces, Swords*
+- **Spirit** — `Tal + Thul + Ort + Amn`  
+  *Swords (early)*
+- **Strength** — `Amn + Tir`  
+  *Melee Weapons*
+- **Insight** — `Ral + Tir + Tal + Sol`  
+  *Staves, Polearms, Bows*
+- **Zephyr** — `Ort + Eth`  
+  *Bows, Crossbows, Amazon Bows*
+- **Leaf** — `Tir + Ral`  
+  *Staves*
+## **Important Note**
+\* **4-open-socket items do *not* naturally drop in Normal difficulty.**  
+However, if the item level (ilvl) is high enough, you can still add sockets using the **Larzuk quest reward** in Act V.
+</details>
