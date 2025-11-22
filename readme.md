@@ -170,6 +170,9 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 
 ---
 <a id="low-level-runewords"></a>
+
+# Additional Resources
+
 <details>
     <summary><h2>Low-Level Runeword List</h2></summary>
 
