@@ -84,32 +84,41 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 
 # Main Route
 
-1. **Spider Forest → Spider Cavern** → Khalim’s Eye
-2. Continue → **Flayer Jungle → Flayer Dungeon** → Khalim’s Brain
-3. Flayer WP → **Lower Kurast → Bazaar**
-4. **Sewers Level 1/2** → Khalim’s Heart
-5. **Upper Kurast → Travincal**
-6. **Durance (left-hand)** → Kill **Meph**
+1. **Spider Forest → Spider Cavern** → Khalim’s Eye via Chest
+2. Exit **Spider Cavern** continue to → **Flayer Jungle** (Check Notes)
+3. Look for **Flayer Jungle** Waypoint, if you find find **Flayer Dungeon** first place TP and continue
+4. Take waypoint back to town and take your TP into **Flayer Dungeon** → **Flayer Dungeon Level 3 → Khalim's Brain**
+5. TP back to town → Take Flayer Jungle WP -> Find **Lower Kurast → Kurast Bazaar**
+   1. Optional: Look for **Ruined Temple** in **Kurast Bazaar** for Lam Esen's Tomb Quest (5 Stat Points)
+7. In Kurast Bazaar find -> **Sewers Level 1 -> Open lever to Sewers Level 2** → Khalim’s Heart via Chest
+   1. Once you find Heart, exit should be towards right somewhere on the edge, but sometimes in middle of map.
+8. **Upper Kurast → Kurast Causeway → Travincal**
+9. Hit Trav WP to the left of Durance Entrance
+10. Kill Council Members and combine all quest items to make Khalium's Will
+11. **Durance (left-hand)** → Kill **Meph**
 
 # Act 3 Notes
-- 
+- **Great Marsh** and **Flayer Jungle** can be linear where you will have to go through **Black Marsh** to find **Flayer Jungle** OR sometimes you can slip **Black Marsh** and find **Flayer Dungeon right** away (Best Case Scenario)
+- Always check the other side of the Fork where Black Marsh is incase you have Flayer Dungeon branching off the other way.
+- When running through Act 3 and you find the Jade Figurine, return quest whenever you head back to town.
+- Use Merc to tank Mephisto hits when Killing Meph as he hits hard in Normal
 
 ---
 ![act4](https://github.com/user-attachments/assets/381893f5-8d09-4f02-8a7d-d03aa4aaeddc)
 
 # Main Route
 
-1. **Outer Steppes → Plains of Despair** → Izual
+1. **Outer Steppes → Plains of Despair** → Kill Izual (2 Skills Points)
    1. Plains of Despair entrance locations [click here](https://diablo2.io/download/file.php?id=258460&sid=53a1de6fc5d7d7114a5819cd8cbd2685&mode=view)
-3. **City of the Damned → River of Flame**
+3. Continue to **City of the Damned → River of Flame**
    1. City of Damned location [click here](https://diablo2.io/download/file.php?id=258462&mode=view)
-5. Run Straight through River of Flame for Chaos Sanctuary. Hellforge is located on either the left or right side
-6. Hit all the seals to spawn Diablo
-7. Kill **Diablo**
+5. Run Straight line through River of Flame for Chaos Sanctuary. Hellforge is located on either the left or right side
+6. Hit all the seals to spawn Diablo -> Kill **Diablo**
 8. TP back to town -> travel to Act 5 via Tyreal
 
 # Act 4 Notes
 - Mephisto’s Soul Stone -> gems gain from smashing the soul stone may give you enough to craft a Caster Recipe depending on character
+- **Caster Belt:** Any Jewel + Perfect Amethyst + Ith
 
 ---
 ![act5](https://github.com/user-attachments/assets/a539e0b2-57a5-41dd-bfd3-93ec2609031c)
