@@ -91,7 +91,7 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 10. Run **Harem -> Palace Cellars 1/2/3 -> Arcane Sanctuary**
 11. Kill Summoner
 12. **Canyon of the Magi -> Tal Rasha's Tomb -> Kill Duriel**
-13. Talk to Tyreal -> take red TP -> Talk to Jerhyn -> Make Town Portal in **Harem Level 1** -> Travel Act 3 via Warriv
+13. Talk to Tyreal -> take red TP -> Talk to Jerhyn -> Make Town Portal in **Harem Level 1** -> Travel Act 3 via Meshif
 
 # Act 2 Notes
 - Grab a **Combat Mercenary** for **Prayer Aura** <br>
